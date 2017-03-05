@@ -1,0 +1,19 @@
+.site-header {
+        background: rgb(90, 119, 221);
+        color:  rgb(49, 250, 125);
+        padding:20px 5%;
+        box-shadow:  0 1px 3px ;
+      }
+
+.site-header h1{
+  margin: 0;
+  font-size: 20px;
+}
+
+.into-text {
+
+   color: rgb(4, 149, 168);
+       font-size: 19px;
+       font-family: fantasy;
+
+}
