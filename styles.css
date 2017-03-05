@@ -28,7 +28,7 @@
 .main-nav{
 
   float: right;
-  
+
 
 }
 
@@ -53,4 +53,15 @@
        font-size: 19px;
        font-family: fantasy;
 
+}
+
+.billboard{
+  background: rgb(184, 198, 245);
+  color: rgb(255, 99, 0);
+  text-align: center;
+  padding: 40px;
+}
+
+.billboard h2{
+  margin-top:  0;
 }
